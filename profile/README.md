@@ -1,17 +1,10 @@
-<img src="https://i.imgur.com/Nk9vzCz.png" width="400" height="178"/>
+<img src="https://i.imgur.com/V4sA3Kv.png" width="360" height="220"/>
 
-# <img src="https://i.imgur.com/tLp063F.png" width="40" height="40"/> Tycoons Development
+# <img src="https://i.imgur.com/2S3sJP3.png" width="70" height="50"/> Dark Services
 
-The best Tycoons server in the world! Play with your friends and have fun!
-
-## Games
-• Space Pets Simulator
-
-• Utopia Gens
+Providing industry-leading system administration, and network security at an affordable rate.
 
 ## Links
-• [Discord](https://discord.gg/petsims)
+• [Website](https://www.darkservices.dev)
 
-• Java: play.tycoons.gg
-
-• Bedrock: bedrock.tycoons.gg
+• [Discord](https://discord.gg/systemadmin)
